@@ -26,3 +26,5 @@ All of the sources listed below are from material that I have learned from. Whet
 > ![Lecture 2 | The Universal Approximation Theorem](https://www.youtube.com/watch?v=lkha188L4Gs)
 >
 > ![New Video Tutorial: Make a Neural Net Simulator in C++](https://millermattson.com/dave/?p=54)
+>
+> ![CS-449: Neural Networks](https://people.willamette.edu/~gorr/classes/cs449/intro.html)
