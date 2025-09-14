@@ -30,3 +30,5 @@ All of the sources listed below are from material that I have learned from. Whet
 > ![CS-449: Neural Networks](https://people.willamette.edu/~gorr/classes/cs449/intro.html)
 >
 > ![If my kids excel, will they move away?](https://jeffreybigham.com/blog/2025/where-will-my-kids-go.html)
+>
+> ![Duke University Introduction to Machine Learning](https://online.duke.edu/course/introduction-to-machine-learning/)
