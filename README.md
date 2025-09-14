@@ -1,5 +1,5 @@
 # Everything I Learn From
-All of the sources listed below are from material that I have learned from. Whether these are readings, videos, audios, or other, they have contributed to my knowledge basis and I believe I have a moral obligation to credit them. The sources below are in no particular order. Date of when I began collection this material: September 13, 2025. 
+All of the sources listed below are from material that I have learned from. Whether these are readings, videos, audios, or other, they have contributed to my knowledge basis and I believe I have a moral obligation to credit them. The sources below are in no particular order. Date of when I began collecting this material: September 13, 2025. 
 
 ## Material
 
