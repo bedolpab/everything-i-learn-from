@@ -28,3 +28,5 @@ All of the sources listed below are from material that I have learned from. Whet
 > ![New Video Tutorial: Make a Neural Net Simulator in C++](https://millermattson.com/dave/?p=54)
 >
 > ![CS-449: Neural Networks](https://people.willamette.edu/~gorr/classes/cs449/intro.html)
+>
+> ![If my kids excel, will they move away?](https://jeffreybigham.com/blog/2025/where-will-my-kids-go.html)
