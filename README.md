@@ -1,7 +1,7 @@
 # Everything I Learn From
 All of the sources listed below are from material that I have learned from. Whether these are readings, videos, audios, or other, they have contributed to my knowledge basis and I believe I have a moral obligation to credit them. The sources below are in no particular order. Date of when I began collecting this material: September 13, 2025. 
 
-## Material on 09/14/2025.
+## Material on 09/13/2025.
 ![The Novice's LLM Training Guide](https://rentry.org/llm-training)
  
 ![Top 55 Machine Learning Interview Questions for 2025](https://rentry.org/llm-training)
