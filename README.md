@@ -18,3 +18,5 @@ All of the sources listed below are from material that I have learned from. Whet
 14. [If my kids excel, will they move away?](https://jeffreybigham.com/blog/2025/where-will-my-kids-go.html)
 15. [Duke University Introduction to Machine Learning](https://online.duke.edu/course/introduction-to-machine-learning/)
 
+## Material on 09/15/2025.
+1. [Technical Interivew Guide for AI Researchers & ML Engineers](https://attachments.convertkitcdnn2.com/1152607/59845259-d7c4-4e3b-bbde-477d11fedf3d/march-2025-a-guide-to-technical-interviews-for-ai-researchers-1.pdf?ck_subscriber_id=3596593631)
