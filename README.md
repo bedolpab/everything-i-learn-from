@@ -20,3 +20,8 @@ All of the sources listed below are from material that I have learned from. Whet
 
 ## Material on 09/15/2025.
 1. [Technical Interivew Guide for AI Researchers & ML Engineers](https://attachments.convertkitcdnn2.com/1152607/59845259-d7c4-4e3b-bbde-477d11fedf3d/march-2025-a-guide-to-technical-interviews-for-ai-researchers-1.pdf?ck_subscriber_id=3596593631)
+2. [Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/contents/1.1.1-working-in-research-vs.-workingin-production.html)
+
+## Material on 09/16/2025.
+1. [Security Pro, Chapter 2](https://www.comptia.org/en-us/certifications/security-pro/)
+2. [Lecture 1: Understanding Machine Learning Production [draft]](https://docs.google.com/document/d/1VuofeF5okBATz1F7HRQmOgi5Jc4bmUiHMYjRqwF-29s/edit?tab=t.0)
