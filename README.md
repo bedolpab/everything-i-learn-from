@@ -1,6 +1,22 @@
 # Everything I Learn From
 All of the sources listed below are from material that I have learned from. Whether these are readings, videos, audios, or other, they have contributed to my knowledge basis and I believe I have a moral obligation to credit them. The sources below are in no particular order. Date of when I began collecting this material: September 13, 2025. Note, some material I may not have read that day, but it will be added here as something to read in the future. 
 
+
+# Material in Unordered Queue
+- [A Guide to Technical Interviews for AI Researchers (PDF) — March 2025](https://attachments.convertkitcdnn2.com/1152607/59845259-d7c4-4e3b-bbde-477d11fedf3d/march-2025-a-guide-to-technical-interviews-for-ai-researchers-1.pdf?ck_subscriber_id=3596593631)  
+- [*Cracking the Coding Interview* (6th Edition) discussion on LeetCode](https://leetcode.com/discuss/post/1152824/cracking-the-coding-interview-6th-editio-97nm/)  
+- [Tensor Puzzles (GitHub)](https://github.com/srush/Tensor-Puzzles)  
+- [Srush NLP YouTube playlists](https://www.youtube.com/@srush_nlp/playlists)  
+- [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)  
+- [Deep Learning Interview Questions list by Julian8897 on Medium](https://medium.com/@julian8897/list/dl-interview-questions-8b0ec46701ec)  
+- [Hugging Face docs: Accelerate — FSDP and DeepSpeed](https://huggingface.co/docs/accelerate/en/concept_guides/fsdp_and_deepspeed)  
+- [Machine Learning Cheat Sheet PDF (by SoulMachine)](https://raw.githubusercontent.com/soulmachine/machine-learning-cheat-sheet/master/machine-learning-cheat-sheet.pdf)  
+- [Machine Learning Interview (GitHub) by khangich](https://github.com/khangich/machine-learning-interview?tab=readme-ov-file)  
+- [Lilian Weng’s blog](https://lilianweng.github.io/)  
+- [Spinning Up in Deep Reinforcement Learning (OpenAI)](https://spinningup.openai.com/en/latest/)  
+- [Symmetric Key Cryptanalysis How-To by akircanski](https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html)  
+
+
 ## Material on 09/13/2025.
 1. [The Novice's LLM Training Guide](https://rentry.org/llm-training)
 2. [Top 55 Machine Learning Interview Questions for 2025](https://rentry.org/llm-training)
@@ -28,4 +44,4 @@ All of the sources listed below are from material that I have learned from. Whet
 
 ## Material on 09/17/2025.
 1. [Security Pro, Chapter 3](https://www.comptia.org/en-us/certifications/security-pro/)
-2. [How I Learned Symmetric-Key Cryptanalysis](https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html)
+2. [CrypTool-Online](https://legacy.cryptool.org/en/cto/)
