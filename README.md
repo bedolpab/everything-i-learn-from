@@ -1,5 +1,5 @@
 # Everything I Learn From
-All of the sources listed below are from material that I have learned from. Whether these are readings, videos, audios, or other, they have contributed to my knowledge basis and I believe I have a moral obligation to credit them. The sources below are in no particular order. Date of when I began collecting this material: September 13, 2025. 
+All of the sources listed below are from material that I have learned from. Whether these are readings, videos, audios, or other, they have contributed to my knowledge basis and I believe I have a moral obligation to credit them. The sources below are in no particular order. Date of when I began collecting this material: September 13, 2025. Note, some material I may not have read that day, but it will be added here as something to read in the future. 
 
 ## Material on 09/13/2025.
 1. [The Novice's LLM Training Guide](https://rentry.org/llm-training)
@@ -25,3 +25,7 @@ All of the sources listed below are from material that I have learned from. Whet
 ## Material on 09/16/2025.
 1. [Security Pro, Chapter 2](https://www.comptia.org/en-us/certifications/security-pro/)
 2. [Lecture 1: Understanding Machine Learning Production [draft]](https://docs.google.com/document/d/1VuofeF5okBATz1F7HRQmOgi5Jc4bmUiHMYjRqwF-29s/edit?tab=t.0)
+
+## Material on 09/17/2025.
+1. [Security Pro, Chapter 3](https://www.comptia.org/en-us/certifications/security-pro/)
+2. [How I Learned Symmetric-Key Cryptanalysis](https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html)
