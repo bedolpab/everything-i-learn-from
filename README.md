@@ -6,7 +6,7 @@ All of the sources listed below are from material that I have learned from. Whet
 - [A Guide to Technical Interviews for AI Researchers (PDF) — March 2025](https://attachments.convertkitcdnn2.com/1152607/59845259-d7c4-4e3b-bbde-477d11fedf3d/march-2025-a-guide-to-technical-interviews-for-ai-researchers-1.pdf?ck_subscriber_id=3596593631)  
 - [*Cracking the Coding Interview* (6th Edition) discussion on LeetCode](https://leetcode.com/discuss/post/1152824/cracking-the-coding-interview-6th-editio-97nm/)  
 - [Tensor Puzzles (GitHub)](https://github.com/srush/Tensor-Puzzles)  
-- [Srush NLP YouTube playlists](https://www.youtube.com/@srush_nlp/playlists)  
+- [Srush NLP YouTube playlists](https://www.youtube.com/@srush_nlp/playlists)  d
 - [Transformer Math 101](https://blog.eleuther.ai/transformer-math/)  
 - [Deep Learning Interview Questions list by Julian8897 on Medium](https://medium.com/@julian8897/list/dl-interview-questions-8b0ec46701ec)  
 - [Hugging Face docs: Accelerate — FSDP and DeepSpeed](https://huggingface.co/docs/accelerate/en/concept_guides/fsdp_and_deepspeed)  
@@ -45,3 +45,14 @@ All of the sources listed below are from material that I have learned from. Whet
 ## Material on 09/17/2025.
 1. [Security Pro, Chapter 3](https://www.comptia.org/en-us/certifications/security-pro/)
 2. [CrypTool-Online](https://legacy.cryptool.org/en/cto/)
+
+## Material on 09/18/2025-10/02/2025
+I have not prioritized updating this repository with new information. Moving forward, I will attempt to be consistent.
+
+## Material on 10/02/2025
+1.  [Analysis of large binaries and games in Ghidra-SRE](https://kiwidog.me/2021/07/analysis-of-large-binaries-and-games-in-ghidra-sre/)
+2.  [Reversing WannaCry Part 3 - The encryption component](https://www.youtube.com/watch?v=ru5VzUigKqw)
+3.  [Reversing WannaCry Part 1 - Finding the killswitch and unpacking the malware in #Ghidra](https://www.youtube.com/watch?v=Sv8yu12y5zM)
+4.  [WANNACRY: Earth's Deadliest [Computer] Viruses](https://www.youtube.com/watch?v=I5Wxh-rCzrY)
+5.  [GitHub - NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+6.  [Ghidra - Wikipedia](https://en.wikipedia.org/wiki/Ghidra)
